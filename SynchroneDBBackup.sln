@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynchroneDBBackup", "SynchroneDBBackup\SynchroneDBBackup.csproj", "{AC348C51-0476-48DA-B4AC-91FE84E4C0E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerInfoBackup", "ServerInfoBackup\ServerInfoBackup.csproj", "{C01D726C-738D-4A8F-8899-499A5DE0A609}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC348C51-0476-48DA-B4AC-91FE84E4C0E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC348C51-0476-48DA-B4AC-91FE84E4C0E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC348C51-0476-48DA-B4AC-91FE84E4C0E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC348C51-0476-48DA-B4AC-91FE84E4C0E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C01D726C-738D-4A8F-8899-499A5DE0A609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C01D726C-738D-4A8F-8899-499A5DE0A609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C01D726C-738D-4A8F-8899-499A5DE0A609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C01D726C-738D-4A8F-8899-499A5DE0A609}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7568A978-B816-4E9C-8AB8-1F1BF1B0C616}
+	EndGlobalSection
+EndGlobal
