@@ -37,7 +37,7 @@ namespace ServerInfoBackup
         public string SelectDBList { get; } = @"SELECT [name]
             FROM sys.databases
             WHERE is_read_only=0
-            AND [name] NOT IN (N'msdb', N'model', N'tempdb', N'master', N'Distribution', N'SSISDB', N'FortisAdmin', N'ReportingService', N'ReportingServiceTempDB')
+            AND [name] NOT IN (N'msdb', N'model', N'tempdb', N'master', N'Distribution', N'SSISDB', N'SRV', N'ReportingService', N'ReportingServiceTempDB')
             ";
         /// <summary>
         /// Название экземпляра MS SQL Server (неименованном)

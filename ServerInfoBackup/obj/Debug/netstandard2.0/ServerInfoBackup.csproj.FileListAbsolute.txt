@@ -19,7 +19,6 @@ D:\Repos\SynchroneDBBackup\ServerInfoBackup\obj\Debug\netstandard2.0\ServerInfoB
 D:\GitHub\SynchroneDBBackup\ServerInfoBackup\bin\Debug\netstandard2.0\ServerInfoBackup.deps.json
 D:\GitHub\SynchroneDBBackup\ServerInfoBackup\bin\Debug\netstandard2.0\ServerInfoBackup.dll
 D:\GitHub\SynchroneDBBackup\ServerInfoBackup\bin\Debug\netstandard2.0\ServerInfoBackup.pdb
-D:\GitHub\SynchroneDBBackup\ServerInfoBackup\obj\Debug\netstandard2.0\ServerInfoBackup.csprojAssemblyReference.cache
 D:\GitHub\SynchroneDBBackup\ServerInfoBackup\obj\Debug\netstandard2.0\ServerInfoBackup.csproj.CoreCompileInputs.cache
 D:\GitHub\SynchroneDBBackup\ServerInfoBackup\obj\Debug\netstandard2.0\ServerInfoBackup.AssemblyInfoInputs.cache
 D:\GitHub\SynchroneDBBackup\ServerInfoBackup\obj\Debug\netstandard2.0\ServerInfoBackup.AssemblyInfo.cs
